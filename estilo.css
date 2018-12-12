@@ -1,0 +1,35 @@
+body{
+font-family: 'Kaushan Script', cursive;
+}
+h1{
+    
+    text-align:center;
+}
+
+img{
+    width:80px;
+    height:80px;
+}
+.logos{
+    margin-left:45%;
+}
+ul{
+    margin:0;
+    padding:0;
+    
+}
+li{
+    list-style:none;
+    text-align:center;
+    display:inline-block;
+}
+li a{
+    color:#fff;
+    text-decoration:none;
+    background-color:#000;
+    margin-bottom:1px;
+    padding:5px 20px;
+}
+li a:hover {
+    background-color: #C0C0C0;
+}
